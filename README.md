@@ -5,7 +5,7 @@
 The GTK theme colors are inspired (copied) from the "Dark Blue Style" in [Planify](https://github.com/alainm23/planify).
 
 - Install [Rewaita](https://github.com/SwordPuffin/Rewaita)
-- Add Planify 🕶️.css from above to your Rewaita themes folder (usually `$HOME/.var/app/io.github.swordpuffin.rewaita/data/dark`)
+- Add Planify 🕶️.css from above to your Rewaita themes folder (usually `$HOME/.var/app/io.github.swordpuffin.rewaita/data/dark` or `$HOME/.local/share/dark`)
 - Open Rewaita and select "Planify" from the list of themes
 - Enable "Transparency" toggle
 
